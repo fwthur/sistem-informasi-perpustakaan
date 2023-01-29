@@ -1,0 +1,40 @@
+.+ =======[ Log Peminjam ] ======= +.
+Tanggal  : Sun Jan 29 21:44:23 2023
+Nama     : Muhammad Ananta Faturrahman
+NIM      : 2211102121
+Kode     : UMU2
+Judul    : Strategi Pengembangan Diri
+Penulis  : Jen A.Hans
+Kategori : Umum
+.+ =======[ Log Peminjam ] ======= +.
+Tanggal  : Sun Jan 29 21:46:29 2023
+Nama     : Bagas Surahman
+NIM      : 2211102117
+Kode     : SAI3
+Judul    : On the Origin of Species
+Penulis  : Charles Darwin
+Kategori : Sains
+.+ =======[ Log Peminjam ] ======= +.
+Tanggal  : Sun Jan 29 21:46:56 2023
+Nama     : Arvico Cipta Hamda F
+NIM      : 2211102134
+Kode     : SOS3
+Judul    : Jokowi & Kedaulatan Pangan
+Penulis  : Tulus T.H Tambunan
+Kategori : Sosial
+.+ =======[ Log Peminjam ] ======= +.
+Tanggal  : Sun Jan 29 22:40:14 2023
+Nama     : Muhammad Ananta Faturrahman
+NIM      : 2211102121
+Kode     : UMU3
+Judul    : Membaca Emosi Orang
+Penulis  : Paul Ekman
+Kategori : Umum
+.+ =======[ Log Peminjam ] ======= +.
+Tanggal  : Sun Jan 29 22:50:03 2023
+Nama     : 1
+NIM      : 1
+Kode     : UMU1
+Judul    : Seni Berbicara
+Penulis  : Larry King
+Kategori : Umum

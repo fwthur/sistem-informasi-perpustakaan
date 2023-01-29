@@ -1,0 +1,12 @@
+.+ =============[ Invoice ]============= +.
+             Detail Peminjaman   
+         Sun Jan 29 22:50:03 2023
+.+ ========[ Detail Peminjaman ]======== +.
+Nama     : Muhammad Ananta Faturrahman
+NIM      : 2211102121
+Kode     : UMU3
+Judul    : Membaca Emosi Orang
+Penulis  : Paul Ekman
+Kategori : Umum
+.+ ========[ Detail Peminjaman ]======== +.
+
